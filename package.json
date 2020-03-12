@@ -1,0 +1,14 @@
+{
+  "name": "userinput",
+  "version": "1.0.0",
+  "description": "user input from html form to mongodb database with node and express",
+  "main": "user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phatutshedzo Makushu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
